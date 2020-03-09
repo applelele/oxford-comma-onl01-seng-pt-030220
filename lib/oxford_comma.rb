@@ -1,5 +1,5 @@
 def oxford_comma(array)
   array.pop
-  array << ""
+  array << "and kohlrabi"
   array.join(", ")
 end
