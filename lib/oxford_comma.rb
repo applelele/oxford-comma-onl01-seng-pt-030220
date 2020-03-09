@@ -1,5 +1,4 @@
 def oxford_comma(array)
-  array.pop
-  array << "and kohlrabi"
+  if array.length == 
   array.join(", ")
 end
